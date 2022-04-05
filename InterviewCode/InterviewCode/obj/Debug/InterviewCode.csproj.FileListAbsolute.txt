@@ -1,0 +1,7 @@
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\obj\Debug\InterviewCode.csproj.AssemblyReference.cache
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\obj\Debug\InterviewCode.csproj.CoreCompileInputs.cache
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\bin\Debug\InterviewCode.exe.config
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\bin\Debug\InterviewCode.exe
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\bin\Debug\InterviewCode.pdb
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\obj\Debug\InterviewCode.exe
+C:\Users\c18923\source\repos\InterviewCode\InterviewCode\obj\Debug\InterviewCode.pdb
